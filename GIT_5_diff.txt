@@ -1,0 +1,5 @@
+1. utworzono pusty nowy_plik.txt
+2. dodano do indeksu i zatwierdzono
+3. przeprowadzono modyfikację nowy_plik.txt
+4. dodano (git add) i zatwierdzono modyfikację nowy_plik.txt
+5. utworzono, zaindeksowano i zatwierdzono drugi_plik.txt o wyspecyfikowanej zawartości "Lorem ipsum..."
