@@ -1,0 +1,12 @@
+*   4f889ea Scalanie z gałęzią test
+|\  
+| * c23c95d Modyfikacja README.md
+| * 74eb695 Dodano pliki GIT_7_ls.txt, GIT_7_status.txt, GIT_7_log.txt
+* | 9d61bb0 Modyfikacja README.md
+|/  
+* 083389e Dodano pliki GIT_6_log.txt, GIT_6_log_oneline.txt, GIT_6_show.txt
+* 55c54e4 Dodano plik GIT_5_diff.txt
+* f015e5b Dodano README.md
+* d375ec1 Zmodyfikowano GIT_4_status2.txt, dodano GIT_4_restore.txt, GIT_4_status3.txt
+* 70babe1 Dodano pliki GIT_4_status1.txt, GIT_4_status2.txt
+* 87396ff Dodano pliki GIT_2_version.txt, GIT_1_idea.txt
