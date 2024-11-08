@@ -1,0 +1,4 @@
+Tworzenie nowej funkcjonalności w kodzie wykorzystującym mechanikę kwantową do symulacji chemicznych, np:
+
+- implementacja nowej metody obliczania energii całkowitej;
+- implementacja złożonego skryptu, który sekwencyjnie wykonuje zadane obliczenia.
