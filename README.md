@@ -6,7 +6,7 @@ Nazwa repozytorium to my_first_repo_GIT_3
 
 *pd4380*
 
-1. 04.11.2024
-2. 18:52
+1. 08.11.2024
+2. 13:12
 
 `git init`
