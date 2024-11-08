@@ -1,0 +1,7 @@
+SYSTEM KONTROLI WERSJI, my_first_repo_GIT_3, Kamil Wojtkowiak, pd4380
+
+<<<<<<< HEAD
+Praca z gałęziami i rozwiązywanie konfliktów.
+=======
+Tym wpisem chcemy spowodować konflikt
+>>>>>>> test
