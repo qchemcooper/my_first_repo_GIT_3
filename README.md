@@ -11,3 +11,4 @@ Nazwa repozytorium to my_first_repo_GIT_3
 
 Reinitialized existing Git repository in /home/kamil/Desktop/KURSY_STUDIA/BIOINFORMATYKA/GIT/corrected/my_first_repo_GIT_3/.git/
 
+Praca z gałęziami i rozwiązywanie konfliktów.
