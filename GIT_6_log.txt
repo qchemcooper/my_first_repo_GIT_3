@@ -1,0 +1,29 @@
+commit 55c54e4f2023a89712cc2141c4c2383ec42955f4
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:07:39 2024 +0100
+
+    Dodano plik GIT_5_diff.txt
+
+commit f015e5bb8e119500c7ebcfa5e09795de5b265480
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:07:05 2024 +0100
+
+    Dodano README.md
+
+commit d375ec1b277e2e997e9a658801fd7d68f4d031fc
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:04:25 2024 +0100
+
+    Zmodyfikowano GIT_4_status2.txt, dodano GIT_4_restore.txt, GIT_4_status3.txt
+
+commit 70babe14d6a983ad5c5797694ab519e367337eed
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:01:52 2024 +0100
+
+    Dodano pliki GIT_4_status1.txt, GIT_4_status2.txt
+
+commit 87396ff99a10de49d6966a3f75570a1f9acda903
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:00:40 2024 +0100
+
+    Dodano pliki GIT_2_version.txt, GIT_1_idea.txt

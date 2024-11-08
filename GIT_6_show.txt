@@ -1,0 +1,17 @@
+commit 55c54e4f2023a89712cc2141c4c2383ec42955f4
+Author: kamil <kamilchem95@gmail.com>
+Date:   Fri Nov 8 12:07:39 2024 +0100
+
+    Dodano plik GIT_5_diff.txt
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..64bc139
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,5 @@
++1. utworzono pusty nowy_plik.txt
++2. dodano do indeksu i zatwierdzono
++3. przeprowadzono modyfikację nowy_plik.txt
++4. dodano (git add) i zatwierdzono modyfikację nowy_plik.txt
++5. utworzono, zaindeksowano i zatwierdzono drugi_plik.txt o wyspecyfikowanej zawartości "Lorem ipsum..."
