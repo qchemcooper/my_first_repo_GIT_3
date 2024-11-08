@@ -1,0 +1,36 @@
+0b23e18 HEAD@{0}: commit: Dodano plik GIT_9_reset.txt
+a1e7796 HEAD@{1}: reset: moving to HEAD~1
+9819483 HEAD@{2}: commit: Dodano plik GIT_9_log.txt.
+a1e7796 HEAD@{3}: commit: Dodano plik GIT_8_cherry-pick_done.txt.
+05fe5e3 HEAD@{4}: cherry-pick: Dodano plik GIT_8_cherry-pick.txt
+69e26d1 HEAD@{5}: checkout: moving from test to master
+a393e07 HEAD@{6}: commit: Dodano plik GIT_8_cherry-pick.txt
+1377a65 HEAD@{7}: checkout: moving from master to test
+69e26d1 HEAD@{8}: commit: Dodano plik GIT_8_rebase.txt.
+eaf6c54 HEAD@{9}: rebase (finish): returning to refs/heads/master
+eaf6c54 HEAD@{10}: rebase (squash): Dodano pliki GIT_8_branch.txt, GIT_8_status.txt
+78eae06 HEAD@{11}: rebase (start): checkout HEAD~2
+1cde125 HEAD@{12}: commit: Dodano plik GIT_8_stan.txt
+78eae06 HEAD@{13}: commit: Dodano pliki GIT_8_branch.txt, GIT_8_status.txt
+39126df HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+82a695b HEAD@{15}: checkout: moving from test to master
+1377a65 HEAD@{16}: commit: Dodano plik GIT_8_diff.txt
+c4c0578 HEAD@{17}: commit: Dodano plik GIT_8_log.txt
+c23c95d HEAD@{18}: checkout: moving from master to test
+82a695b HEAD@{19}: commit: Dodano plik GIT_8_stash_list.txt
+15a2cea HEAD@{20}: reset: moving to HEAD
+15a2cea HEAD@{21}: commit: Dodano plik GIT_7_branch.txt
+4f889ea HEAD@{22}: commit (merge): Scalanie z gałęzią test
+9d61bb0 HEAD@{23}: checkout: moving from test to master
+c23c95d HEAD@{24}: commit: Modyfikacja README.md
+74eb695 HEAD@{25}: checkout: moving from master to test
+9d61bb0 HEAD@{26}: commit: Modyfikacja README.md
+083389e HEAD@{27}: checkout: moving from test to master
+74eb695 HEAD@{28}: commit: Dodano pliki GIT_7_ls.txt, GIT_7_status.txt, GIT_7_log.txt
+083389e HEAD@{29}: checkout: moving from master to test
+083389e HEAD@{30}: commit: Dodano pliki GIT_6_log.txt, GIT_6_log_oneline.txt, GIT_6_show.txt
+55c54e4 HEAD@{31}: commit: Dodano plik GIT_5_diff.txt
+f015e5b HEAD@{32}: commit: Dodano README.md
+d375ec1 HEAD@{33}: commit: Zmodyfikowano GIT_4_status2.txt, dodano GIT_4_restore.txt, GIT_4_status3.txt
+70babe1 HEAD@{34}: commit: Dodano pliki GIT_4_status1.txt, GIT_4_status2.txt
+87396ff HEAD@{35}: commit (initial): Dodano pliki GIT_2_version.txt, GIT_1_idea.txt
